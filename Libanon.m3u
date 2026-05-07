@@ -1,0 +1,158 @@
+#EXTM3U
+
+############################################################
+# 🇱🇧 LIBANON – TV (mit Fallbacks)
+############################################################
+
+#EXTINF:-1 tvg-id="mtv.lb" tvg-logo="https://iptv-org.github.io/epg/logos/mtv.png" group-title="Libanon",MTV Lebanon
+https://edge1.mtv.com.lb/live/mtv/index.m3u8
+https://edge2.mtv.com.lb/live/mtv/index.m3u8
+https://iptv-org.github.io/streams/mtv.m3u8
+
+#EXTINF:-1 tvg-id="lbc.lb" tvg-logo="https://iptv-org.github.io/epg/logos/lbci.png" group-title="Libanon",LBCI
+https://lbci-live.catiacast.video/lbci/index.m3u8
+https://lbci.akamaized.net/hls/lbci.m3u8
+https://iptv-org.github.io/streams/lbci.m3u8
+
+#EXTINF:-1 tvg-id="aljadeed.lb" tvg-logo="https://iptv-org.github.io/epg/logos/aljadeed.png" group-title="Libanon",Al Jadeed
+https://live.aljadeed.tv/stream/aljadeed/index.m3u8
+https://aljadeed.akamaized.net/hls/aljadeed.m3u8
+https://iptv-org.github.io/streams/aljadeed.m3u8
+
+#EXTINF:-1 tvg-id="otv.lb" tvg-logo="https://iptv-org.github.io/epg/logos/otv.png" group-title="Libanon",OTV Lebanon
+https://otv-live.catiacast.video/otv/index.m3u8
+https://otv.akamaized.net/hls/otv.m3u8
+https://iptv-org.github.io/streams/otv.m3u8
+
+#EXTINF:-1 tvg-id="nbn.lb" tvg-logo="https://iptv-org.github.io/epg/logos/nbn.png" group-title="Libanon",NBN Lebanon
+https://nbn-live.catiacast.video/nbn/index.m3u8
+https://nbn.akamaized.net/hls/nbn.m3u8
+https://iptv-org.github.io/streams/nbn.m3u8
+
+#EXTINF:-1 tvg-id="teleliban.lb" tvg-logo="https://iptv-org.github.io/epg/logos/teleliban.png" group-title="Libanon",Tele Liban
+https://cdn.catiacast.video/teleliban/index.m3u8
+https://teleliban.akamaized.net/hls/teleliban.m3u8
+https://iptv-org.github.io/streams/teleliban.m3u8
+
+#EXTINF:-1 tvg-id="futuretv.lb" tvg-logo="https://iptv-org.github.io/epg/logos/futuretv.png" group-title="Libanon",Future TV
+https://futuretv.catiacast.video/future/index.m3u8
+https://iptv-org.github.io/streams/futuretv.m3u8
+
+
+############################################################
+# 🌍 PAN-ARABISCHE NEWS (mit Fallbacks)
+############################################################
+
+#EXTINF:-1 tvg-id="aljazeera.qa" tvg-logo="https://iptv-org.github.io/epg/logos/aljazeera.png" group-title="News",Al Jazeera Arabic
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://edge.api.brightcove.com/playback/aljazeera.m3u8
+https://iptv-org.github.io/streams/aljazeera.m3u8
+
+#EXTINF:-1 tvg-id="alarabiya.sa" tvg-logo="https://iptv-org.github.io/epg/logos/alarabiya.png" group-title="News",Al Arabiya
+https://live.alarabiya.com/alarabiya/stream.m3u8
+https://alarabiya-live.akamaized.net/hls/live.m3u8
+https://iptv-org.github.io/streams/alarabiya.m3u8
+
+#EXTINF:-1 tvg-id="alaraby.qa" tvg-logo="https://iptv-org.github.io/epg/logos/alaraby.png" group-title="News",Al Araby TV
+https://alaraby.cdn.octivid.com/alaraby/araby/index.m3u8
+https://iptv-org.github.io/streams/alaraby.m3u8
+
+#EXTINF:-1 tvg-id="skynewsarabia.ae" tvg-logo="https://iptv-org.github.io/epg/logos/skynewsarabia.png" group-title="News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna/index.m3u8
+https://iptv-org.github.io/streams/skynewsarabia.m3u8
+
+
+############################################################
+# 🇸🇦 MBC GRUPPE (mit Fallbacks)
+############################################################
+
+#EXTINF:-1 tvg-id="mbc1.ae" tvg-logo="https://iptv-org.github.io/epg/logos/mbc1.png" group-title="MBC",MBC 1
+https://shls-mbc1-prod.shahid.net/out/v1/mbc1.m3u8
+https://mbc1-live.akamaized.net/hls/mbc1.m3u8
+https://iptv-org.github.io/streams/mbc1.m3u8
+
+#EXTINF:-1 tvg-id="mbc2.ae" tvg-logo="https://iptv-org.github.io/epg/logos/mbc2.png" group-title="MBC",MBC 2
+https://shls-mbc2-prod.shahid.net/out/v1/mbc2.m3u8
+https://mbc2-live.akamaized.net/hls/mbc2.m3u8
+https://iptv-org.github.io/streams/mbc2.m3u8
+
+#EXTINF:-1 tvg-id="mbc3.ae" tvg-logo="https://iptv-org.github.io/epg/logos/mbc3.png" group-title="Kinder",MBC 3
+https://shls-mbc3-prod.shahid.net/out/v1/mbc3.m3u8
+https://mbc3-live.akamaized.net/hls/mbc3.m3u8
+https://iptv-org.github.io/streams/mbc3.m3u8
+
+#EXTINF:-1 tvg-id="mbc4.ae" tvg-logo="https://iptv-org.github.io/epg/logos/mbc4.png" group-title="MBC",MBC 4
+https://shls-mbc4-prod.shahid.net/out/v1/mbc4.m3u8
+https://iptv-org.github.io/streams/mbc4.m3u8
+
+#EXTINF:-1 tvg-id="mbcaction.ae" tvg-logo="https://iptv-org.github.io/epg/logos/mbcaction.png" group-title="MBC",MBC Action
+https://shls-mbcaction-prod.shahid.net/out/v1/mbcaction.m3u8
+https://iptv-org.github.io/streams/mbcaction.m3u8
+
+
+############################################################
+# 🎬 ROTANA ENTERTAINMENT (mit Fallbacks)
+############################################################
+
+#EXTINF:-1 tvg-id="rotana.cinema" tvg-logo="https://iptv-org.github.io/epg/logos/rotanacinema.png" group-title="Rotana",Rotana Cinema
+https://rotana-live.ercdn.net/rotanacinema/index.m3u8
+https://rotana.cdn.octivid.com/cinema/index.m3u8
+https://iptv-org.github.io/streams/rotanacinema.m3u8
+
+#EXTINF:-1 tvg-id="rotana.drama" tvg-logo="https://iptv-org.github.io/epg/logos/rotanadrama.png" group-title="Rotana",Rotana Drama
+https://rotana-live.ercdn.net/rotanadrama/index.m3u8
+https://iptv-org.github.io/streams/rotanadrama.m3u8
+
+
+############################################################
+# 🧒 KINDER-SENDER (mit Fallbacks)
+############################################################
+
+#EXTINF:-1 tvg-id="jeem.qa" tvg-logo="https://iptv-org.github.io/epg/logos/jeem.png" group-title="Kinder",Jeem TV
+https://svs.itworkscdn.net/jeem/smil:jeem.smil/playlist.m3u8
+https://jeem.cdn.octivid.com/live/index.m3u8
+https://iptv-org.github.io/streams/jeem.m3u8
+
+#EXTINF:-1 tvg-id="baraem.qa" tvg-logo="https://iptv-org.github.io/epg/logos/baraem.png" group-title="Kinder",Baraem TV
+https://svs.itworkscdn.net/baraem/smil:baraem.smil/playlist.m3u8
+https://iptv-org.github.io/streams/baraem.m3u8
+
+
+############################################################
+# ✝️ CHRISTLICHE TV-SENDER (mit Fallbacks)
+############################################################
+
+#EXTINF:-1 tvg-id="noursat.lb" tvg-logo="https://iptv-org.github.io/epg/logos/noursat.png" group-title="Christlich",Noursat (Tele Lumiere)
+https://live.noursat.tv/telelumiere/index.m3u8
+https://backup.noursat.tv/telelumiere/index.m3u8
+https://iptv-org.github.io/streams/noursat.m3u8
+
+#EXTINF:-1 tvg-id="sat7arabic.lb" tvg-logo="https://iptv-org.github.io/epg/logos/sat7arabic.png" group-title="Christlich",SAT‑7 Arabic
+https://sat7arabic-live.akamaized.net/hls/live.m3u8
+https://iptv-org.github.io/streams/sat7arabic.m3u8
+
+
+############################################################
+# 📻 RADIO – CHRISTLICH (mit Fallbacks)
+############################################################
+
+#EXTINF:-1 tvg-id="charityradio.lb" tvg-logo="https://iptv-org.github.io/epg/logos/charityradio.png" group-title="Radio",Charity Radio
+https://live.noursat.tv/charityradio/index.m3u8
+https://backup.noursat.tv/charityradio/index.m3u8
+
+#EXTINF:-1 tvg-id="voiceofgrace.lb" tvg-logo="https://iptv-org.github.io/epg/logos/voiceofgrace.png" group-title="Radio",Voice of Grace
+https://live.noursat.tv/voiceofgrace/index.m3u8
+https://backup.noursat.tv/voiceofgrace/index.m3u8
+
+#EXTINF:-1 tvg-id="orthodoxya.lb" tvg-logo="https://iptv-org.github.io/epg/logos/orthodoxya.png" group-title="Radio",Orthodoxya Radio
+https://stream.orthodoxyaradio.com/live/stream.m3u8
+https://backup.orthodoxyaradio.com/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="radiomaria.lb" tvg-logo="https://iptv-org.github.io/epg/logos/radiomaria.png" group-title="Radio",Radio Maria Lebanon
+https://stream.radiomaria.org/lb/stream.m3u8
+
+#EXTINF:-1 tvg-id="radiomaria.ar" tvg-logo="https://iptv-org.github.io/epg/logos/radiomaria.png" group-title="Radio",Radio Maria Arabic
+https://stream.radiomaria.org/ar/stream.m3u8
+
+#EXTINF:-1 tvg-id="biblevoice.int" tvg-logo="https://iptv-org.github.io/epg/logos/biblevoice.png" group-title="Radio",Bible Voice Broadcasting
+https://stream.biblevoice.org/live/stream.m3u8
