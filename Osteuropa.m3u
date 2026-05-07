@@ -1,0 +1,85 @@
+#EXTM3U
+
+###############
+#   NEWS
+###############
+
+# Poland – TVP Info
+#EXTINF:-1 tvg-id="tvpinfo.pl" tvg-name="TVP Info" tvg-logo="https://iptv-org.github.io/epg/logos/tvpinfo.png" group-title="News",TVP Info
+https://stream.tvp.pl/tvpinfo/master.m3u8
+https://stream.tvp.pl/tvpinfo/index.m3u8
+
+# Czech Republic – ČT24
+#EXTINF:-1 tvg-id="ct24.cz" tvg-name="ČT24" tvg-logo="https://iptv-org.github.io/epg/logos/ct24.png" group-title="News",ČT24
+https://ct24.ceskatelevize.cz/live/ct24.m3u8
+https://ct24.ceskatelevize.cz/live/master.m3u8
+
+# Ukraine – UA: Pershyi
+#EXTINF:-1 tvg-id="suspilne.ua" tvg-name="UA: Pershyi" tvg-logo="https://iptv-org.github.io/epg/logos/suspilne.png" group-title="News",UA: Pershyi
+https://stream.suspilne.media/live/smil:pershyi.smil/master.m3u8
+https://stream.suspilne.media/live/pershyi/index.m3u8
+
+# Russia – Russia 24
+#EXTINF:-1 tvg-id="russia24.ru" tvg-name="Russia 24" tvg-logo="https://iptv-org.github.io/epg/logos/russia24.png" group-title="News",Russia 24
+https://vgtrk-live.cdnvideo.ru/russia24/smil:r24.smil/master.m3u8
+https://vgtrk-live.cdnvideo.ru/russia24/r24_720p/index.m3u8
+
+
+###############
+#   ENTERTAINMENT
+###############
+
+# Poland – TVP 2
+#EXTINF:-1 tvg-id="tvp2.pl" tvg-name="TVP 2" tvg-logo="https://iptv-org.github.io/epg/logos/tvp2.png" group-title="Entertainment",TVP 2
+https://stream.tvp.pl/tvp2/master.m3u8
+https://stream.tvp.pl/tvp2/index.m3u8
+
+# Czech Republic – Nova TV
+#EXTINF:-1 tvg-id="nova.cz" tvg-name="Nova" tvg-logo="https://iptv-org.github.io/epg/logos/nova.png" group-title="Entertainment",Nova
+https://nova-live.ssl.cdn.cra.cz/channels/nova/playlist.m3u8
+https://nova-live.ssl.cdn.cra.cz/channels/nova/index.m3u8
+
+# Ukraine – 1+1 International
+#EXTINF:-1 tvg-id="1plus1.ua" tvg-name="1+1 International" tvg-logo="https://iptv-org.github.io/epg/logos/1plus1.png" group-title="Entertainment",1+1 International
+https://live.1plus1.video/hls/1plus1intl.m3u8
+https://live.1plus1.video/hls/1plus1intl_720.m3u8
+
+# Russia – RTR Planeta
+#EXTINF:-1 tvg-id="rtrplaneta.ru" tvg-name="RTR Planeta" tvg-logo="https://iptv-org.github.io/epg/logos/rtrplaneta.png" group-title="Entertainment",RTR Planeta
+https://rtr-planeta.cdnvideo.ru/rtr-planeta/smil:rtrplaneta.smil/master.m3u8
+https://rtr-planeta.cdnvideo.ru/rtr-planeta/rtrplaneta_720p/index.m3u8
+
+
+###############
+#   MUSIK
+###############
+
+# Poland – Eska TV
+#EXTINF:-1 tvg-id="eskatv.pl" tvg-name="Eska TV" tvg-logo="https://iptv-org.github.io/epg/logos/eskatv.png" group-title="Musik",Eska TV
+https://stream.eska.tv/eskatv/master.m3u8
+https://stream.eska.tv/eskatv/index.m3u8
+
+# Ukraine – M1 Music
+#EXTINF:-1 tvg-id="m1.ua" tvg-name="M1" tvg-logo="https://iptv-org.github.io/epg/logos/m1.png" group-title="Musik",M1
+https://live.m1.tv/hls/m1.m3u8
+https://live.m1.tv/hls/m1_720.m3u8
+
+# Russia – MuzTV
+#EXTINF:-1 tvg-id="muztv.ru" tvg-name="MuzTV" tvg-logo="https://iptv-org.github.io/epg/logos/muztv.png" group-title="Musik",MuzTV
+https://muztv.cdnvideo.ru/muztv/smil:muztv.smil/master.m3u8
+https://muztv.cdnvideo.ru/muztv/muztv_720p/index.m3u8
+
+
+###############
+#   KINDER
+###############
+
+# Poland – TVP ABC
+#EXTINF:-1 tvg-id="tvpabc.pl" tvg-name="TVP ABC" tvg-logo="https://iptv-org.github.io/epg/logos/tvpabc.png" group-title="Kinder",TVP ABC
+https://stream.tvp.pl/tvpabc/master.m3u8
+https://stream.tvp.pl/tvpabc/index.m3u8
+
+# Russia – Karusel
+#EXTINF:-1 tvg-id="karusel.ru" tvg-name="Karusel" tvg-logo="https://iptv-org.github.io/epg/logos/karusel.png" group-title="Kinder",Karusel
+https://karusel.cdnvideo.ru/karusel/smil:karusel.smil/master.m3u8
+https://karusel.cdnvideo.ru/karusel/karusel_720p/index.m3u8
