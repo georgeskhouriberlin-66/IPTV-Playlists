@@ -1,0 +1,78 @@
+#EXTM3U
+
+###############
+#   NEWS
+###############
+
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste" tvg-logo="https://iptv-org.github.io/epg/logos/ard.png" group-title="News",Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF" tvg-logo="https://iptv-org.github.io/epg/logos/zdf.png" group-title="News",ZDF
+https://zdf-hls-01.akamaized.net/hls/live/2003/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau24" tvg-logo="https://iptv-org.github.io/epg/logos/tagesschau24.png" group-title="News",Tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix" tvg-logo="https://iptv-org.github.io/epg/logos/phoenix.png" group-title="News",Phoenix
+https://zdf-hls-17.akamaized.net/hls/live/2016/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="welt.de" tvg-name="WELT" tvg-logo="https://iptv-org.github.io/epg/logos/welt.png" group-title="News",WELT
+https://welt-hls-live.akamaized.net/hls/live/2003673/welt/master.m3u8
+https://cdn.welt.de/tv/live/hls/de/master.m3u8
+
+
+
+###############
+#   ENTERTAINMENT
+###############
+
+#EXTINF:-1 tvg-id="one.de" tvg-name="ONE" tvg-logo="https://iptv-org.github.io/epg/logos/one.png" group-title="Entertainment",ONE
+https://mcdn.one.de/one/de/master.m3u8
+
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDFneo" tvg-logo="https://iptv-org.github.io/epg/logos/zdfneo.png" group-title="Entertainment",ZDFneo
+https://zdf-hls-15.akamaized.net/hls/live/2012/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDFinfo" tvg-logo="https://iptv-org.github.io/epg/logos/zdfinfo.png" group-title="Entertainment",ZDFinfo
+https://zdf-hls-14.akamaized.net/hls/live/2011/de/high/master.m3u8
+
+
+###############
+#   KULTUR
+###############
+
+#EXTINF:-1 tvg-id="arte.de" tvg-name="Arte" tvg-logo="https://iptv-org.github.io/epg/logos/arte.png" group-title="Kultur",Arte
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-logo="https://iptv-org.github.io/epg/logos/3sat.png" group-title="Kultur",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2017/de/high/master.m3u8
+
+
+###############
+#   MUSIK
+###############
+
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="Deluxe Music" tvg-logo="https://iptv-org.github.io/epg/logos/deluxemusic.png" group-title="Musik",Deluxe Music
+https://sdn-global-live-stream-deluxe.akamaized.net/hls/live/2007263/deluxe/master.m3u8
+
+
+###############
+#   REGIONAL
+###############
+
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR Fernsehen" tvg-logo="https://iptv-org.github.io/epg/logos/br.png" group-title="Regional",BR Fernsehen
+https://mcdn.br.de/br/fs/de/master.m3u8
+
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR" tvg-logo="https://iptv-org.github.io/epg/logos/ndr.png" group-title="Regional",NDR
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR" tvg-logo="https://iptv-org.github.io/epg/logos/wdr.png" group-title="Regional",WDR
+https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
+
+
+###############
+#   KINDER
+###############
+
+#EXTINF:-1 tvg-id="kika.de" tvg-name="KiKA" tvg-logo="https://iptv-org.github.io/epg/logos/kika.png" group-title="Kinder",KiKA
+https://kikahls.akamaized.net/hls/live/2002827/kika/master.m3u8
+https://zdf-hls-18.akamaized.net/hls/live/2017/de/high/master.m3u8
