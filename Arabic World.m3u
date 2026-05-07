@@ -1,0 +1,73 @@
+#EXTM3U
+
+###############
+#   NEWS
+###############
+
+#EXTINF:-1 tvg-id="aljazeera.qa" tvg-name="Al Jazeera" tvg-logo="https://iptv-org.github.io/epg/logos/aljazeera.png" group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="alarabiya.sa" tvg-name="Al Arabiya" tvg-logo="https://iptv-org.github.io/epg/logos/alarabiya.png" group-title="News",Al Arabiya
+https://live.alarabiya.net/alarabiya/arb/playlist.m3u8
+https://shls-live-ak.akamaized.net/out/v1/alarabiya/master.m3u8
+
+#EXTINF:-1 tvg-id="skynewsarabia.ae" tvg-name="Sky News Arabia" tvg-logo="https://iptv-org.github.io/epg/logos/skynewsarabia.png" group-title="News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+
+###############
+#   ENTERTAINMENT
+###############
+
+#EXTINF:-1 tvg-id="mbc1.sa" tvg-name="MBC 1" tvg-logo="https://iptv-org.github.io/epg/logos/mbc1.png" group-title="Entertainment",MBC 1
+https://shls-mbc1-prod.shahid.net/out/v1/mbc1/master.m3u8
+https://shls-mbc1-prod.shahid.net/out/v1/mbc1/index.m3u8
+
+#EXTINF:-1 tvg-id="mbc2.sa" tvg-name="MBC 2" tvg-logo="https://iptv-org.github.io/epg/logos/mbc2.png" group-title="Entertainment",MBC 2
+https://shls-mbc2-prod.shahid.net/out/v1/mbc2/master.m3u8
+https://shls-mbc2-prod.shahid.net/out/v1/mbc2/index.m3u8
+
+#EXTINF:-1 tvg-id="mbc4.sa" tvg-name="MBC 4" tvg-logo="https://iptv-org.github.io/epg/logos/mbc4.png" group-title="Entertainment",MBC 4
+https://shls-mbc4-prod.shahid.net/out/v1/mbc4/master.m3u8
+https://shls-mbc4-prod.shahid.net/out/v1/mbc4/index.m3u8
+
+
+###############
+#   RELIGION
+###############
+
+#EXTINF:-1 tvg-id="saudiquran.sa" tvg-name="Saudi Quran" tvg-logo="https://iptv-org.github.io/epg/logos/saudiquran.png" group-title="Religion",Saudi Quran
+https://live.tvquran.com/hls/stream.m3u8
+https://live.tvquran.com/hls/stream2.m3u8
+
+#EXTINF:-1 tvg-id="saudisunnah.sa" tvg-name="Saudi Sunnah" tvg-logo="https://iptv-org.github.io/epg/logos/saudisunnah.png" group-title="Religion",Saudi Sunnah
+https://live.tvsunnah.com/hls/stream.m3u8
+https://live.tvsunnah.com/hls/stream2.m3u8
+
+
+###############
+#   KINDER
+###############
+
+#EXTINF:-1 tvg-id="spacetoon.ae" tvg-name="Spacetoon" tvg-logo="https://iptv-org.github.io/epg/logos/spacetoon.png" group-title="Kinder",Spacetoon
+https://stream.spacetoon.com/live/stchannel.m3u8
+https://stream.spacetoon.com/live/stchannel_720.m3u8
+
+#EXTINF:-1 tvg-id="majid.ae" tvg-name="Majid Kids" tvg-logo="https://iptv-org.github.io/epg/logos/majid.png" group-title="Kinder",Majid Kids
+https://admdn1.cdn.mangomolo.com/majid/smil:majid.stream.smil/master.m3u8
+https://admdn1.cdn.mangomolo.com/majid/smil:majid.stream.smil/index.m3u8
+
+
+###############
+#   MUSIK
+###############
+
+#EXTINF:-1 tvg-id="rotana.music.sa" tvg-name="Rotana Music" tvg-logo="https://iptv-org.github.io/epg/logos/rotanamusic.png" group-title="Musik",Rotana Music
+https://shls-rotanamusic-prod.shahid.net/out/v1/rotanamusic/master.m3u8
+https://shls-rotanamusic-prod.shahid.net/out/v1/rotanamusic/index.m3u8
+
+#EXTINF:-1 tvg-id="rotana.clip.sa" tvg-name="Rotana Clip" tvg-logo="https://iptv-org.github.io/epg/logos/rotanaclip.png" group-title="Musik",Rotana Clip
+https://shls-rotanaclip-prod.shahid.net/out/v1/rotanaclip/master.m3u8
+https://shls-rotanaclip-prod.shahid.net/out/v1/rotanaclip/index.m3u8
